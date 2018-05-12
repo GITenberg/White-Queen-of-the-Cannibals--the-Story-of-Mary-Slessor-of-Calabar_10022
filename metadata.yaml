@@ -1,11 +1,16 @@
 _repo: White-Queen-of-the-Cannibals--the-Story-of-Mary-Slessor-of-Calabar_10022
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bueltmann, A. J.
     gutenberg_agent_id: '3267'
     url: http://www.gutenberg.org/2009/agents/3267
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10022#White-Queen-of-the-Cannibals--the-Story-of-Mary-Slessor-of-Calabar
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
